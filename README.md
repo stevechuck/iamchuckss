@@ -10,4 +10,4 @@
 
 ### 📫 Feel free to reach out to me at chuck017@umn.edu for any opportunities or collaboration!
 
-### 💬 Feel free to ask me any questions - I'm especially good at Python and Javascript!
+### 💬 Feel free to ask me any questions!
