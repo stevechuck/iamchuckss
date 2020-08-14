@@ -4,7 +4,7 @@
 
 ### 💼 I'm doing my internship at Intel for Summer 2020!
 
-### 🌱 I’m currently learning how to build cloud native distributed infrastructure on [MIT 6.824](https://pdos.csail.mit.edu/6.824/schedule.html)!
+### 🌱 I’m currently learning about cloud native distributed infrastructure from [MIT 6.824](https://pdos.csail.mit.edu/6.824/schedule.html)!
 
 ### ⌨️ I hang out on [Binarysearch](https://binarysearch.io/@/s2011297)
 
