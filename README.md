@@ -2,7 +2,7 @@
 
 ### 🔭 Working on [Kubernetes](https://github.com/kubernetes/kubernetes) & [Doenet](https://github.com/Doenet/DoenetTools)
 
-### 💼 Internship at Qumulo for Summer 2021 (Intel for Summer 2020)
+### 💼 Internship at Qumulo for Summer '21 (Intel for Summer '20)
 
 ### 🌱 Learning about distributed systems from [MIT 6.824](https://pdos.csail.mit.edu/6.824/schedule.html)!
 
