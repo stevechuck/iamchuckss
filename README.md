@@ -4,8 +4,6 @@
 
 ### 💼 Internship at Qumulo for Summer '21 (Intel for Summer '20)
 
-### 🌱 Learning about distributed systems from [MIT 6.824](https://pdos.csail.mit.edu/6.824/schedule.html)!
-
 ### ⌨️ I hang out on [Binarysearch](https://binarysearch.io/@/s2011297)
 
 ### 📫 Feel free to reach out to me at chuck017@umn.edu for any opportunities or collaboration!
