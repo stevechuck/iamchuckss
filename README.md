@@ -2,7 +2,7 @@
 
 ### 🔭 Working on [Kubernetes](https://github.com/kubernetes/kubernetes) & [Doenet](https://github.com/Doenet/DoenetTools)
 
-### 💼 Internship at Qumulo for Summer '21 (Intel for Summer '20)
+### 💼 Internship at Facebook for Summer '21 (Intel for Summer '20)
 
 ### ⌨️ I hang out on [Binarysearch](https://binarysearch.io/@/s2011297)
 
